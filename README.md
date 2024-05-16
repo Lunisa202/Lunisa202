@@ -4,6 +4,15 @@ I'm Peruvian. I'm a self-taught web programming student and graduated from Natio
 I graduated from the ONE (Oracle Next Education) program as a frontend web programmer with React. After this, I have participated in 'No Country' work simulation projects.
 
 ## Collaborative projects created in the frontend role:
-[Green IX: MVP of an e-commerce about sustainable products.](https://github.com/No-Country/c14-15-t-node-react)
-[Trucking: MVP of an app for managing the vehicle fleet of an entire company.](https://github.com/No-Country/s12-14-t-java-react)
-[ServiHogar: MVP of an app to offer and hire labor services for work at home.](https://github.com/No-Country/s14-06-t-node-react)
+
+[Green IX](https://github.com/No-Country/c14-15-t-node-react)
+
+*Description: MVP of an e-commerce about sustainable products.*
+
+[Trucking](https://github.com/No-Country/s12-14-t-java-react)
+
+*Description: MVP of an app for managing the vehicle fleet of an entire company*.
+
+[ServiHogar](https://github.com/No-Country/s14-06-t-node-react)
+
+*Description: MVP of an app to offer and hire labor services for work at home*.
