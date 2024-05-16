@@ -1,22 +1,9 @@
-# ✋Hello, I'm Carolina Limay
+# ✋Hello, I'm Mary Laura Carolina Limay Oliva
 
-I'm Peruvian and I'm a web programming student. I want to become a fullstack programmer 👩‍💻. Currently, I am learning React and Node.js, the knowledge I have is HTML, Javascript, CSS, Sass, and Git. I studied on the platforms of [freecodecamp](https://www.freecodecamp.org), [open-bootcamp](https://campus.open-bootcamp.com/), [Frontend mentor](https://www.frontendmentor.io/), youtube and platforms like [adventJs](https://adventjs.dev/es) and [HackerRank](https://www.hackerrank.com/).
+I'm Peruvian. I'm a self-taught web programming student and graduated from National University of Trujillo as computer engineering. I want to become a fullstack programmer 👩‍💻. Currently, I am learning Javascript, TypeScript with React and Java with SpringBoot, the knowledge I have is HTML, Javascript, CSS, Sass, tailwind, and Git. I studied on platforms like [freecodecamp](https://www.freecodecamp.org), [open-bootcamp](https://campus.open-bootcamp.com/), [Frontend mentor](https://www.frontendmentor.io/), youtube and others like [adventJs](https://adventjs.dev/es) and [HackerRank](https://www.hackerrank.com/).
+I graduated from the ONE (Oracle Next Education) program as a frontend web programmer with React. After this, I have participated in 'No Country' work simulation projects.
 
-***
-##  Terminal commands learned   
-| Comands | Description |
-|----------|-------------|
-| ls       | List current directory or or given path|
-| pwd      | Print working directory or current path| 
-| cd       | Allow us to move between directories or given paths |
-| rm -r    | Allow us to remove a folder given a path |
-| mkdir    | Allow us to create a folder given the name of that folder|
-
-***   
-## Useful Alias commands
-
-| Comands | Description |
-|---------|-------------|
-| alias cl="clear" | Clean command line |
-|alias npms="npm start" | Execute the start script to start the application with npm |
-
+## Collaborative projects created in the frontend role:
+[Green IX: MVP of an e-commerce about sustainable products.](https://github.com/No-Country/c14-15-t-node-react)
+[Trucking: MVP of an app for managing the vehicle fleet of an entire company.](https://github.com/No-Country/s12-14-t-java-react)
+[ServiHogar: MVP of an app to offer and hire labor services for work at home.](https://github.com/No-Country/s14-06-t-node-react)
