@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm Peruvian. Bachelor's degree in Computer Engineering from Peru, and fullstack developer. I have built web applications using Node.js, Express, Zod, Sequelize, JavaScript, React, Redux Toolkit, HTML, CSS, and tailwind CSS. I studied on platforms like [freecodecamp](https://www.freecodecamp.org), [open-bootcamp](https://campus.open-bootcamp.com/), [Frontend mentor](https://www.frontendmentor.io/), youtube and others like [adventJs](https://adventjs.dev/es) and [HackerRank](https://www.hackerrank.com/).
+I'm Peruvian. Bachelor's degree in Computer Science from Peru, and fullstack developer. I have built web applications using Node.js, Express, Zod, Sequelize, JavaScript, React, Redux Toolkit, HTML, CSS, and tailwind CSS. I studied on platforms like [freecodecamp](https://www.freecodecamp.org), [Frontend mentor](https://www.frontendmentor.io/), youtube and others like [adventJs](https://adventjs.dev/es) and [HackerRank](https://www.hackerrank.com/).
 I graduated from the ONE (Oracle Next Education) program as a frontend web programmer with React. After this, I have participated in 'No Country' and 'Foo Talent' work simulation projects. I have also developed projects as a freelancer.
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
@@ -23,7 +23,8 @@ I graduated from the ONE (Oracle Next Education) program as a frontend web progr
 
 ## 📞 Contact
 
-- 📧 **Email:** [limayolivamary@gmail.com](mailto:limayolivamary@gmail.com)
+- 📧 **Gmail Primary:** [limayolivamary@gmail.com](mailto:limayolivamary@gmail.com)
+- 📧 **Outlook Alternative:** [marycarolimay@outlook.com](mailto:marycarolimay@outlook.com)
 - 💼 **LinkedIn:** [linkedin.com/in/carolina-limay](https://linkedin.com/in/carolina-limay-oliva)
 
 ## Collaborative projects created in the frontend role:
