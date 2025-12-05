@@ -4,9 +4,27 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mary+Laura+Carolina+Limay+Oliva..&hearts;++;FullStack+Developer+(+Javascript+),;Bachelor+'+s+degree+in+Computer+Science,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm Peruvian. I'm a self-taught web programming student and graduated from National University of Trujillo as computer engineering. I want to become a fullstack programmer 👩‍💻. Currently, I am learning Javascript, TypeScript with React and Java with SpringBoot, the knowledge I have is HTML, Javascript, CSS, Sass, tailwind, and Git. I studied on platforms like [freecodecamp](https://www.freecodecamp.org), [open-bootcamp](https://campus.open-bootcamp.com/), [Frontend mentor](https://www.frontendmentor.io/), youtube and others like [adventJs](https://adventjs.dev/es) and [HackerRank](https://www.hackerrank.com/).
-I graduated from the ONE (Oracle Next Education) program as a frontend web programmer with React. After this, I have participated in 'No Country' work simulation projects.
+I'm Peruvian. Bachelor's degree in Computer Engineering from Peru, and fullstack developer. I have built web applications using Node.js, Express, Zod, Sequelize, JavaScript, React, Redux Toolkit, HTML, CSS, and tailwind CSS. I studied on platforms like [freecodecamp](https://www.freecodecamp.org), [open-bootcamp](https://campus.open-bootcamp.com/), [Frontend mentor](https://www.frontendmentor.io/), youtube and others like [adventJs](https://adventjs.dev/es) and [HackerRank](https://www.hackerrank.com/).
+I graduated from the ONE (Oracle Next Education) program as a frontend web programmer with React. After this, I have participated in 'No Country' and 'Foo Talent' work simulation projects. I have also developed projects as a freelancer.
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+* **I am interested in Web designing, development, and QA Testing**
+- 🌱 I’m currently learning ...
+  - Java
+  - SpringBoot
+  - Angular
+  - Python
+  - Figma
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+- Outside tech, 📖 I love to read novels, to watch movies, and 🎵 listen to music, and 🌴 explore nature outdoors.
+
+## 📞 Contact
+
+- 📧 **Email:** [limayolivamary@gmail.com](mailto:limayolivamary@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/carolina-limay](https://linkedin.com/in/carolina-limay-oliva)
 
 ## Collaborative projects created in the frontend role:
 
