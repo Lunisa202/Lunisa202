@@ -108,18 +108,19 @@ I graduated from the ONE (Oracle Next Education) program as a frontend web progr
 
 -----
 
-## Collaborative projects created in the frontend role:
+## 🚀 Team Projects - Frontend Developer
+
+| Project | Description | Technologies | My Role | Links |
+|---------|-------------|--------------|---------|-------|
+|**FastLab**| Clinical Laboratory Management System: A web application for managing medical laboratories, including test results, patient information, and medical staff administration.|  React, Node.js, JWT Auth | Frontend Developer | [![GitHub Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FooTalentGroupProjects/Team-16)  [![Video Demo](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/tuvideo) |
+| **Trucking Management** | Logistics & fleet management system: MVP of an app for managing the vehicle fleet of an entire company | React, Java Spring Boot APIs | Frontend Developer  | [Repo](https://github.com/Lunisa202/Trucking-t-java-react) |
+| **GreenIX Platform** | Online store for eco-friendly and sustainable products: MVP of an e-commerce about sustainable products | React, Node.js, JWT Auth | Frontend Developer - Eco-features & community tools | [Repo](https://github.com/Lunisa202/GreenIX-t-node-react) |
+
+*All projects developed in collaborative team environments using Agile methodologies*
 
 
+## Portfolio
 
-[Green IX](https://github.com/No-Country/c14-15-t-node-react)
+[![Portfolio](https://img.shields.io/badge/Portfolio-🛠️_Under_Construction-FFA500?style=for-the-badge&logo=tools&logoColor=black)](https://github.com/Lunisa202)
 
-*Description: MVP of an e-commerce about sustainable products.*
-
-[Trucking](https://github.com/No-Country/s12-14-t-java-react)
-
-*Description: MVP of an app for managing the vehicle fleet of an entire company*.
-
-[ServiHogar](https://github.com/No-Country/s14-06-t-node-react)
-
-*Description: MVP of an app to offer and hire labor services for work at home*.
+*🚧 Portfolio website coming soon! Meanwhile, check my GitHub projects below.*
