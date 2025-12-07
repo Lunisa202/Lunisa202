@@ -84,6 +84,29 @@ I graduated from the ONE (Oracle Next Education) program as a frontend web progr
 </span>
 <p><em>Leveraging AI tools for learning and implementing programming best practices</em></p>
 
+----
+
+### ✍ Github stats:
+
+<img align="right" title="Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lunisa202&theme=dark&hide_border=false" /> 
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lunisa202&theme=material-palenight&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
+----
+
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Lunisa202&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+-----
 
 ## Collaborative projects created in the frontend role:
 
