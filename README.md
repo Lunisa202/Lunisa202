@@ -30,6 +30,7 @@ I graduated from the ONE (Oracle Next Education) program as a frontend web progr
 ## 🛠️ My Skills Include
 
 ### 📚 Languages
+
 <span> 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -89,16 +90,9 @@ I graduated from the ONE (Oracle Next Education) program as a frontend web progr
 ### ✍ Github stats:
 
 <img align="right" title="Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lunisa202&theme=dark&hide_border=false" /> 
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lunisa202&theme=material-palenight&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-
-----
-
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Lunisa202&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-
+<!-- 
+<img  align="left"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lunisa202&theme=material-palenight&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+-->
 ----
 
 <p align="center">
@@ -112,12 +106,20 @@ I graduated from the ONE (Oracle Next Education) program as a frontend web progr
 
 | Project | Description | Technologies | My Role | Links |
 |---------|-------------|--------------|---------|-------|
-|**FastLab**| Clinical Laboratory Management System: A web application for managing medical laboratories, including test results, patient information, and medical staff administration.|  React, Node.js, JWT Auth | Frontend Developer | [![GitHub Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FooTalentGroupProjects/Team-16)  [![Video Demo](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/tuvideo) |
-| **Trucking Management** | Logistics & fleet management system: MVP of an app for managing the vehicle fleet of an entire company | React, Java Spring Boot APIs | Frontend Developer  | [Repo](https://github.com/Lunisa202/Trucking-t-java-react) |
-| **GreenIX Platform** | Online store for eco-friendly and sustainable products: MVP of an e-commerce about sustainable products | React, Node.js, JWT Auth | Frontend Developer - Eco-features & community tools | [Repo](https://github.com/Lunisa202/GreenIX-t-node-react) |
+|**FastLab**| Clinical Laboratory Management System: A web application for managing medical laboratories, including test results, patient information, and medical staff administration.|  React, Node.js, JWT Auth | Frontend Developer |  [![Video Demo](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1m6yqD2AFA4b1Skbp3Q_HugPZQ-DeK2bf/view?usp=sharing) [![GitHub Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FooTalentGroupProjects/Team-16)  |
+| **Trucking Management** | Logistics & fleet management system: MVP of an app for managing the vehicle fleet of an entire company | React, Java Spring Boot APIs | Frontend Developer  | [![Video Demo](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1QejE17E_AdbsoRKiB6iWv_hDffh2iLLl/view?usp=sharing) [![GitHub Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lunisa202/Trucking-t-java-react) |
+| **GreenIX Platform** | Online store for eco-friendly and sustainable products: MVP of an e-commerce about sustainable products | React, Node.js, JWT Auth | Frontend Developer  | [![Figma Prototype](https://img.shields.io/badge/FIGMA_PROTOTYPE-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/design/ElFMPdwE33nFsu8Fj4FfE0/No-Country?node-id=1063-3545&t=Z7EIZ6YaYLTAQ7TB-0) [![GitHub Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lunisa202/GreenIX-t-node-react) |
 
 *All projects developed in collaborative team environments using Agile methodologies*
 
+### ⚠️ Important Note
+
+<div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 12px; margin: 16px 0; border-radius: 4px;">
+  <strong>⚠️ Demo Availability Notice:</strong><br>
+  These projects were developed as <strong>practice MVPs</strong> during simulated work programs. 
+  Some demo links may be temporarily <strong>offline or unstable</strong> as they were hosted on 
+  free-tier services for learning purposes only. The code repositories remain fully accessible below.
+</div>
 
 ## Portfolio
 
