@@ -88,9 +88,9 @@ I graduated from the ONE (Oracle Next Education) program as a frontend web progr
 ----
 
 ### ✍ Github stats:
-
-<img align="right" title="Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lunisa202&theme=dark&hide_border=false" /> 
 <!-- 
+<img align="right" title="Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lunisa202&theme=dark&hide_border=false" /> 
+
 <img  align="left"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lunisa202&theme=material-palenight&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
 -->
 ----
