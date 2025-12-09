@@ -108,7 +108,7 @@ I graduated from the ONE (Oracle Next Education) program as a frontend web progr
 
 -----
 
-## 🚀 Team Projects - Frontend Developer
+## 🚀 Team Projects as developer
 
 | Project | Description | Technologies | My Role | Links |
 |---------|-------------|--------------|---------|-------|
@@ -127,6 +127,27 @@ I graduated from the ONE (Oracle Next Education) program as a frontend web progr
   Some demo links may be temporarily <strong>offline or unstable</strong> as they were hosted on 
   free-tier services for learning purposes only. The code repositories remain fully accessible below.
 </div>
+
+----
+
+## 🎨 UX/UI Design - Team Projects & Collaborations
+### 🐾 Paw pet - Pet Medical History Manager
+
+**Description:** A mobile application designed to manage and track your pet's complete medical history. The app allows pet owners to record veterinary visits, consultation reasons, treatments, and medications. The medical records can be easily shared with veterinarians, pet sitters, or family members.
+
+**Key Features:**
+- 📋 Complete medical record tracking
+- 🏥 Veterinary visit logging with reasons
+- 💊 Medication and treatment history
+- 📤 Easy sharing of medical records
+- 📱 Mobile-first design for pet owners on the go
+
+### 🎨 Design Resources (Figma)
+
+[![Project Documentation](https://img.shields.io/badge/📋_Project_Canvas_&_Specs-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/t2cM3pBiKj4YbtiMMh14SN/The-Warrior-designers?node-id=1-2&t=EaCRkRaEt9nvyLvh-1)
+[![Interactive Prototype](https://img.shields.io/badge/🔗_Live_Interactive_Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/8Eb7GSsArjrTiVx43bLBqc/PROTOTIPO?page-id=102%3A1538&node-id=677-36244&viewport=31045%2C11347%2C0.25&t=umPvkazVaWOK68To-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=680%3A34224&show-proto-sidebar=1)
+[![Video Demonstration](https://img.shields.io/badge/🎬_Prototype_Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1DK2swqk80KQ1lBCWjRxr8Ey62Mz1YPFg/view?usp=sharing)
+
 
 ## Portfolio
 
