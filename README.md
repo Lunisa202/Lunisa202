@@ -56,8 +56,9 @@ I graduated from the ONE (Oracle Next Education) program as a frontend web progr
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
 </span>
 
-### ⚙️ Backend
+### ⚙️ Backend & Workflow Automation
 <span>
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -70,24 +71,27 @@ I graduated from the ONE (Oracle Next Education) program as a frontend web progr
 
 ### 🗄️ Databases
 <span>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </span>
 
-### 🎯 UI/UX Design
+### 🎨 UI/UX Design
 <span>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </span>
 <p><em>Solid knowledge in User Experience (UX) Design principles and methodologies</em></p>
 
-### 🤖 AI Tools
+### 🤖 AI Orchestration & Tools
 <span>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/Cohere-335F55?style=for-the-badge&logo=cohere&logoColor=white">
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/DeepSeek-0B65F2?style=for-the-badge&logo=deepseek&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/NotebookLM-FCC624?style=for-the-badge&logo=google&logoColor=black">
 </span>
-<p><em>Leveraging AI tools for learning and implementing programming best practices</em></p>
+<p><em>Leveraging AI architectures, LLM frameworks, and tooling for intelligent automation best practices</em></p>
 
 ----
 ### ✍ Github stats:
@@ -112,15 +116,33 @@ I graduated from the ONE (Oracle Next Education) program as a frontend web progr
 
 -----
 
+## 🤖 Automation & AI Projects
+### 🤖 IA Agente RRHH Bot - ChocolaTech
+
+**Description:** An intelligent AI Agent built to automate Human Resources workflows and instantly manage corporate inquiries like vacation balances, time banks, and work modalities. Based on the core framework from the Alura Latam Immersion, this system was enhanced to meet strict enterprise standards for data privacy and backend logic.
+
+**Key Features:**
+- 🔒 **Biometric Identity Filter:** Uses unique `telegram_id` validation via Supabase to automatically allow or block data rendering before the LLM processes private queries.
+- 🛡️ **Anti-Spoofing & Auto-Link:** Prompts unknown users for their DNI, parses digits syntactically with AI functions, and securely pairs accounts only if the document is free, locking out identity hijackers.
+- ⏳ **Dynamic Time Anchoring:** Injects automated, real-time timezone context (`America/Lima`) into the prompt payload so the agent computes employee tenures and dates flawlessly.
+- ⚙️ **Hybrid Multi-Tool Architecture:** Orchestrates LangChain tools so the agent dynamically selects between an In-Memory Vector Store (RAG) for general company rules and relational tools for PostgreSQL updates.
+
+**Technologies Used:** n8n (Advanced AI Agents), Cohere LLM, LangChain Framework, Supabase (PostgreSQL), Telegram API.
+
+[![GitHub Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lunisa202/ai-agent-hr-automation)
+[![Telegram Bot](https://img.shields.io/badge/🤖_Live_Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AyudaInteligente_rh_bot)
+
+-----
+
 ## 💻 Software Development - Team Projects
 
 | Project | Description | Technologies | My Role | Links |
 |---------|-------------|--------------|---------|-------|
 | **Valhala** | Liquor store management system: Backend for inventory control and sales tracking with admin/worker roles. Future e-commerce platform (frontend in development). | Node.js, Express, Sequelize, Zod, JWT Authentication | Backend Developer | [![Figma Design](https://img.shields.io/badge/🎨_UI_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/kNAhpRSts4JJJGweYFx27I/Dise%C3%B1oSistemasValhalla?node-id=3-730&p=f&t=u3snzr5keRu1LgUY-0) [![GitHub](https://img.shields.io/badge/📂_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anthonyrobb/SistemaWebVentasValhalla) [![Status](https://img.shields.io/badge/⚙️_Backend_Ready-4A90E2?style=flat-square&logo=server&logoColor=white)](https://github.com/anthonyrobb/SistemaWebVentasValhalla/tree/main/Backend) |
-|**FastLab**| Clinical Laboratory Management System: A web application for managing medical laboratories, including test results, patient information, and medical staff administration.|  React, Redux toolkit, JavaScript, C# .NET | Frontend Developer |  [![Video Demo](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1m6yqD2AFA4b1Skbp3Q_HugPZQ-DeK2bf/view?usp=sharing)  [![Figma Design](https://img.shields.io/badge/🎨_UI_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/LvF3HxkSXhq58vl95KR43W/fastlab-design?node-id=4151-4889&t=qG1olEo2FRRFeuV1-0) [![GitHub Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FooTalentGroupProjects/Team-16) [![Demo](https://img.shields.io/badge/👁️_Frontend_Visible-4A90E2?style=flat-square&logo=eye&logoColor=white)](https://team-16-nu.vercel.app/) |
-| **ServiHogar** | Home services hiring platform: MVP of a marketplace for finding and hiring domestic service providers, where anyone can also register to offer their services. Mobile-only MVP: Application designed specifically for smartphone use cases | React, Redux Toolkit, TypeScript, Node.js, Express, MongoDB | Frontend Developer | [![Video Demo](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/17Q-WZpTnurMwwAedosgFvsv3EDP2YIXt/view?usp=sharing)  [![Figma Design](https://img.shields.io/badge/🎨_UI_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/Ccr90UAlgQt5L5UHTDa0S2/s14-06-t-node-react?node-id=1-2&p=f&t=cpVpX3nPK0gwIKTL-0) [![GitHub Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lunisa202/Proyecto-simulacion-2-noCountry) [![Demo](https://img.shields.io/badge/👁️_Frontend_Visible-4A90E2?style=flat-square&logo=eye&logoColor=white)](https://servihogar1.vercel.app/)|
+|**FastLab**| Clinical Laboratory Management System: A web application for managing medical laboratories, including test results, patient information, and medical staff administration.|  React, Redux toolkit, JavaScript, C# .NET | Frontend Developer |  [![Video Demo](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1m6yqD2AFA4b1Skbp3Q_HugPZQ-DeK2bf/view?usp=sharing)   [![Figma Design](https://img.shields.io/badge/🎨_UI_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/LvF3HxkSXhq58vl95KR43W/fastlab-design?node-id=4151-4889&t=qG1olEo2FRRFeuV1-0) [![GitHub Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FooTalentGroupProjects/Team-16) [![Demo](https://img.shields.io/badge/👁️_Frontend_Visible-4A90E2?style=flat-square&logo=eye&logoColor=white)](https://team-16-nu.vercel.app/) |
+| **ServiHogar** | Home services hiring platform: MVP of a marketplace for finding and hiring domestic service providers, where anyone can also register to offer their services. Mobile-only MVP: Application designed specifically for smartphone use cases | React, Redux Toolkit, TypeScript, Node.js, Express, MongoDB | Frontend Developer | [![Video Demo](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/17Q-WZpTnurMwwAedosgFvsv3EDP2YIXt/view?usp=sharing)   [![Figma Design](https://img.shields.io/badge/🎨_UI_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/Ccr90UAlgQt5L5UHTDa0S2/s14-06-t-node-react?node-id=1-2&p=f&t=cpVpX3nPK0gwIKTL-0) [![GitHub Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lunisa202/Proyecto-simulacion-2-noCountry) [![Demo](https://img.shields.io/badge/👁️_Frontend_Visible-4A90E2?style=flat-square&logo=eye&logoColor=white)](https://servihogar1.vercel.app/)|
 | **Trucking Management** | Logistics & fleet management system: MVP of an app for managing the vehicle fleet of an entire company | React, Redux toolkit, JavaScript, Java Spring Boot, MySQL | Frontend Developer  | [![Video Demo](https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1QejE17E_AdbsoRKiB6iWv_hDffh2iLLl/view?usp=sharing) [![Promotional Video](https://img.shields.io/badge/▶️_Promotional_Video-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=nGajJbYqKp4) [![GitHub Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lunisa202/Trucking-t-java-react) [![Demo](https://img.shields.io/badge/👁️_Frontend_Visible-4A90E2?style=flat-square&logo=eye&logoColor=white)](https://s12-14-t-java-react.vercel.app/) |
-| **GreenIX Platform** | Online store for eco-friendly and sustainable products: MVP of an e-commerce about sustainable products | React, Node.js, JWT Auth | Frontend Developer  | [![Figma Design](https://img.shields.io/badge/🎨_UI_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/ElFMPdwE33nFsu8Fj4FfE0/No-Country?node-id=0-1&t=3FaehBmysacRI93K-1) [![Figma Prototype](https://img.shields.io/badge/🎮_Interactive_Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/ElFMPdwE33nFsu8Fj4FfE0/No-Country?node-id=1063-3545&t=UxqyZDMaIXzBvtVM-1&scaling=min-zoom&content-scaling=fixed&page-id=1063%3A3544&starting-point-node-id=1063%3A3545) [![Video Demonstration](https://img.shields.io/badge/🎬_Prototype_Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1s6U0_YpwG-ER5GqWfYS8G_T5qeaLjngF/view?usp=sharing) [![GitHub Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lunisa202/GreenIX-t-node-react)  [![Demo](https://img.shields.io/badge/👁️_Frontend_Visible-4A90E2?style=flat-square&logo=eye&logoColor=white)](https://c14-15-t-node-react.vercel.app/)  |
+| **GreenIX Platform** | Online store for eco-friendly and sustainable products: MVP of an e-commerce about sustainable products | React, Node.js, JWT Auth | Frontend Developer  | [![Figma Design](https://img.shields.io/badge/🎨_UI_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/ElFMPdwE33nFsu8Fj4FfE0/No-Country?node-id=0-1&t=3FaehBmysacRI93K-1) [![Figma Prototype](https://img.shields.io/badge/🎮_Interactive_Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/ElFMPdwE33nFsu8Fj4FfE0/No-Country?node-id=1063-3545&t=UxqyZDMaIXzBvtVM-1&scaling=min-zoom&content-scaling=fixed&page-id=1063%3A3544&starting-point-node-id=1063%3A3545) [![Video Demonstration](https://img.shields.io/badge/🎬_Prototype_Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1s6U0_YpwG-ER5GqWfYS8G_T5qeaLjngF/view?usp=sharing) [![GitHub Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lunisa202/GreenIX-t-node-react)   [![Demo](https://img.shields.io/badge/👁️_Frontend_Visible-4A90E2?style=flat-square&logo=eye&logoColor=white)](https://c14-15-t-node-react.vercel.app/)   |
 
 *All projects developed in collaborative team environments using Agile methodologies*
 
