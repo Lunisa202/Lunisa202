@@ -117,6 +117,30 @@ I graduated from the ONE (Oracle Next Education) program as a frontend web progr
 -----
 
 ## 🤖 Automation & AI Projects
+### 🎓 EdTech RAG Agent - TechAcademy
+
+**Description:** A full-stack intelligent assistant for the online school "TechAcademy", built with a RAG (Retrieval-Augmented Generation) agent that answers questions about courses, institutional policies, and academic processes. The system combines vector search over official documentation (PDFs) with structured queries over tabular data (CSV), using a LangGraph decision graph that routes each question to the most appropriate information source.
+
+**Key Features:**
+- 🧠 **Multi-Node Decision Graph:** LangGraph workflow with 6 specialized nodes (Triaging, Pandas Agent, RAG, Clarifier, Guardrail, Formatter) that intelligently routes each query to the optimal data source.
+- 🔍 **Hybrid Knowledge Base:** Combines FAISS vector search (MMR, top-k=5) over PDF documentation with a Pandas Agent for structured CSV queries (prices, schedules, professors, vacancies).
+- 💬 **Conversational Memory:** Injects the last 6 messages as context so the agent resolves ambiguous references like "how much does it cost?" when a course was previously mentioned.
+- 🛡️ **Guardrail & Clarifier Nodes:** Off-topic questions are politely redirected; ambiguous queries prompt the user for clarification instead of guessing.
+- ⚡ **Optimistic UI & Background Requests:** Messages appear instantly; if the user switches threads while waiting, the response is saved to the correct thread without affecting the current view.
+- 🌗 **Full-Featured Chat UI:** Dark mode, responsive design, animated typing indicator, auto-generated thread titles, JWT authentication with Argon2 hashing.
+
+**Technologies Used:** Python 3.11, FastAPI, LangChain/LangGraph, Google Gemini 2.5 Flash, FAISS, Pandas, SQLAlchemy, Alembic, PostgreSQL (Supabase), JWT + Argon2, React 19, TypeScript, Redux Toolkit, Tailwind CSS 4, Vite, Axios, Zod.
+
+**Deploy:** Render (Backend) + Vercel (Frontend)
+
+[![GitHub Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lunisa202/edtech-rag-agent)
+[![Live Frontend](https://img.shields.io/badge/🖥️_Live_App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://edtech-rag-agent.vercel.app/)
+[![API Docs](https://img.shields.io/badge/🚀_API_Docs-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://edtech-rag-agent.onrender.com/docs)
+
+#### 🎬 Project Demo
+
+[![Watch Demo](https://img.shields.io/badge/🎬_Full_Demo_Walkthrough-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1YvDEipTgRx-CybzduGcD8n7ctSvdZIC9/view?usp=sharing)
+---
 ### 🤖 IA Agente RRHH Bot - ChocolaTech
 
 **Description:** An intelligent AI Agent built to automate Human Resources workflows and instantly manage corporate inquiries like vacation balances, time banks, and work modalities. Based on the core framework from the Alura Latam Immersion, this system was enhanced to meet strict enterprise standards for data privacy and backend logic.
