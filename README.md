@@ -1,29 +1,29 @@
-<h1 align="center">Hi , I'm Carolina Limay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi 👋, I'm Mary Laura Carolina Limay Oliva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mary+Laura+Carolina+Limay+Oliva..&hearts;++;FullStack+Developer+(+Javascript+),;Bachelor+'+s+degree+in+Computer+Science,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Mary+Laura+Carolina+Limay+Oliva..%E2%99%A5%EF%B8%8F;FullStack+and+AI+Developer+(JS+|+TS+|+Python);Bachelor's+degree+in+Computer+Science;RAG+Architectures+and+AI+Agent+Orchestration;Active+Learner+and+Tech+Explorer..<3"></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<p align="left" >
-  I'm Peruvian. Bachelor's degree in Computer Science from Peru, and fullstack developer. I have built web applications using Node.js, Express, Zod, Sequelize, JavaScript, React, Redux Toolkit, HTML, CSS, and tailwind CSS. I studied on platforms like [freecodecamp](https://www.freecodecamp.org), [Frontend mentor](https://www.frontendmentor.io/), youtube and others like [adventJs](https://adventjs.dev/es) and [HackerRank](https://www.hackerrank.com/).
-I graduated from the ONE (Oracle Next Education) program as a frontend web programmer with React. After this, I have participated in 'No Country' and 'Foo Talent' work simulation projects. I have also developed projects as a freelancer.
-</p>
+I'm a Peruvian **Fullstack & AI Developer** with a Bachelor's Degree in Computer Science from Peru. I specialize in building modern, scalable web applications and integrating **Intelligent AI Agents, RAG architectures, and workflow automation**.
+
+My fullstack tech stack centers on **Node.js, Express, JavaScript, TypeScript, React, Redux Toolkit, FastAPI, Python, HTML5, CSS3, and Tailwind CSS**, backed by strong data handling with Zod and Sequelize/PostgreSQL. Beyond traditional web software, I design smart ecosystems leveraging LLMs, decision graphs (LangGraph/LangChain), and process automation (n8n).
+
+I am a continuous learner who continuously sharpens technical skills through platforms like [freeCodeCamp](https://www.freecodecamp.org), [Frontend Mentor](https://www.frontendmentor.io/), YouTube, [adventJS](https://adventjs.dev/es), and [HackerRank](https://www.hackerrank.com/). I graduated from the **ONE (Oracle Next Education)** program as a frontend web programmer with React. Since then, I have actively delivered team projects in professional work simulations like **No Country** and **Foo Talent**, as well as working on custom freelance solutions.
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-* **I am interested in Web designing, development, and QA Testing**
-- 🌱 I’m currently learning ...
-  - Java
-  - SpringBoot
+* **I am interested in Web Design & Development, AI Agents & Automation, and QA Testing.**
+- 🌱 **I’m currently deepening my knowledge in:**
+  - Java & Spring Boot
+  - Python (FastAPI & AI Orchestration)
   - Angular
-  - Python
-  - Figma
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, to watch movies, and 🎵 listen to music, and 🌴 explore nature outdoors.
-
+  - AI Frameworks & Agents (LangChain / LangGraph / n8n)
+  - Figma (UX/UI Research & Prototyping)
+- 👯 I’m looking forward to collaborating on open source, Fullstack, and AI-driven projects.
+- ✔ Ask me about anything, I am happy to help, only if the ball is in my court! 😉<br>
+- Outside tech, 📖 I love to read novels, watch movies, 🎵 listen to music, and 🌴 explore nature outdoors.
 ## 📞 Contact
 
 - 📧 **Gmail Primary:** [limayolivamary@gmail.com](mailto:limayolivamary@gmail.com)
@@ -117,6 +117,27 @@ I graduated from the ONE (Oracle Next Education) program as a frontend web progr
 -----
 
 ## 🤖 Automation & AI Projects
+### 🧠 DevCoach AI - AI-Powered Technical Coach
+**Project developed for the Kiro 2026 Hackathon (organised by Código Facilito & AWS)**
+
+**Description:** An AI-driven technical coaching platform that works directly with your **real code**. It analyzes GitHub repositories, generates tailored improvement tickets, and conducts interactive technical interviews (via chat or voice) to evaluate and provide feedback on your software decisions.
+
+**Key Features:**
+- 🤖 **4 Specialized AI Agents Pipeline:** Multi-agent orchestration powered by Gemini 2.5 Flash featuring *Code Reviewer*, *Ticket Generator*, *Tech Lead*, and *Evaluator*.
+- 🎙️ **Real-Time Voice Interviews:** First platform to conduct voice-based code evaluations using native Web Speech API.
+- 📊 **5-Dimensional Evaluation:** Comprehensive scoring across technical understanding, justification, alternatives, limitations, and communication skills.
+- 🎮 **Gamification & Dashboard:** Features 11 levels, XP points, streaks, 8 unlockable badges, and a global leaderboard.
+- ☁️ **Cloud Infrastructure:** Fully deployed on AWS (S3, CloudFront, Elastic Beanstalk) and Supabase (PostgreSQL), managed via Terraform.
+
+**Technologies Used:** React 19, TypeScript, Redux Toolkit, Tailwind CSS, FastAPI, Python, Gemini 2.5 Flash API, Supabase (PostgreSQL), AWS (S3, CloudFront, Elastic Beanstalk, Secrets Manager, CloudWatch), Terraform.
+
+[![GitHub Code](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lunisa202/DevCoach-AI)
+[![AWS Live App](https://img.shields.io/badge/☁️_Live_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://d20a7qc0shf987.cloudfront.net/)
+[![Vercel App](https://img.shields.io/badge/🖥️_Live_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devcoach-ai-frontend.vercel.app/)
+
+#### 🎬 Project Walkthrough & Presentation
+[![Watch Demo](https://img.shields.io/badge/🎬_Full_Demo_Video-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1QwcC1rgUkxyxGk3NzQoSx1nSbP_9rMhF/view)
+----
 ### 🎓 EdTech RAG Agent - TechAcademy
 
 **Description:** A full-stack intelligent assistant for the online school "TechAcademy", built with a RAG (Retrieval-Augmented Generation) agent that answers questions about courses, institutional policies, and academic processes. The system combines vector search over official documentation (PDFs) with structured queries over tabular data (CSV), using a LangGraph decision graph that routes each question to the most appropriate information source.
